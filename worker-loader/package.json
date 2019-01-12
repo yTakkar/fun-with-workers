@@ -1,0 +1,22 @@
+{
+  "name": "worker-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "start": "webpack-dev-server --port 4001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.13",
+    "worker-loader": "^2.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
