@@ -2,10 +2,10 @@
 
 This repo contains 4 directories to showcase different ways to work with a Web-Worker in JavaScript.
 
-- [Native-Worker](https://github.com/yTakkar/fun-with-workers/blob/master/native-worker)
-- [Worker-Loader](https://github.com/yTakkar/fun-with-workers/blob/master/worker-loader)
-- [Workerize](https://github.com/yTakkar/fun-with-workers/blob/master/workerize)
-- [Workerize-Loader](https://github.com/yTakkar/fun-with-workers/blob/master/workerize-loader)
+- [Native-Worker](https://github.com/yTakkar/fun-with-workers/tree/master/native-worker)
+- [Worker-Loader](https://github.com/yTakkar/fun-with-workers/tree/master/worker-loader)
+- [Workerize](https://github.com/yTakkar/fun-with-workers/tree/master/workerize-loader)
+- [Workerize-Loader](https://github.com/yTakkar/fun-with-workers/tree/master/workerize)
 
 # About each directory
 
