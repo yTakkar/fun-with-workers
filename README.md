@@ -1,5 +1,7 @@
 # Fun with workers
 
+[ADDED]
+
 This repo contains 4 directories to showcase different ways to work with a Web-Worker in JavaScript.
 
 - [Native-Worker](https://github.com/yTakkar/fun-with-workers/tree/master/native-worker)
